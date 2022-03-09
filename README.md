@@ -26,7 +26,7 @@ This was mainly to test my skills and was a good learning experience.
   
 ### Usage
 - Run the program:
- ```shell
+  ```shell
   cargo run --release f <RELATIVE FILE PATH>
   ```
 
