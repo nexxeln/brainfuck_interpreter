@@ -13,7 +13,7 @@ This was mainly to test my skills and was a good learning experience.
 ### Installation
 - Clone the repository:
   ```shell
-  git clone https://github.com/nexxeln/brainfuck_interprete  
+  git clone https://github.com/nexxeln/brainfuck_interpreter  
   ```
 - Change directory:
   ```shell
