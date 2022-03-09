@@ -1,0 +1,13 @@
+[package]
+name = "brainfuck_interpreter"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "brainfuck_interpreter"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.5.4"
+read_input = "0.8.6"
