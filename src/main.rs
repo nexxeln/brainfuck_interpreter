@@ -18,7 +18,7 @@ fn main() {
             }
         }
         _ => {
-            println!("Invalid sub command!\n\nAll valid sub commands:\n\t run [path]")
+            println!("Invalid sub command!\n\nAll valid sub commands:\n\t f [relative file path]")
         },
     }
 }
