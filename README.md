@@ -3,8 +3,8 @@
 ![demo](https://github.com/nexxeln/brainfuck_interpreter/blob/main/images/demo.gif?raw=true)
 
 ### Overview
-This is yet another brainfuck interpreter written in Rust. The interpreter is blazing fast. 
-This was mainly to test my skills and was a good learning experience.
+This is yet another brainfuck interpreter written in Rust. It's ***blazing fast***. 
+I made this to test my skills in Rust and it was a good learning experience.
 
 ### Prerequisites
 - [Rust](https://www.rust-lang.org/)
